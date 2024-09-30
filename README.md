@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Jessica Araújo 😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(www.linkedin.com/in/jessica-araújo](https://www.linkedin.com/in/jessica-ara%C3%BAjo/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(www.linkedin.com/in/jessica-araújo](https://www.linkedin.com/in/jessica-ara%C3%BAjo/)]]
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jessicaasantos2408@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessiKAWNW&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
