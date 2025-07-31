@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Jessica Araújo, tenho 21 anos, sou bahiana mas moro atualmente no Rio de Janeiro. Concluí o ensino médio no Colégio Pedro II, com o curso técnico em Análise e Desenvolvimento de Sistema. Atualmente, estou cursando Ciência da Computação na UERJ. Sou apaixonada por tecnologia e estou sempre me atualizando sobre novas ferramentas e tecnologias. Estou iniciando agora minha carreira e tenho o objetivo de me tornar uma Desenvolvedora FulStack.
+Me chamo Jessica Araújo, tenho 21 anos, sou bahiana mas moro atualmente no Rio de Janeiro. Concluí o ensino médio no Colégio Pedro II, com o curso técnico em Análise e Desenvolvimento de Sistema. Atualmente, estou cursando Ciência da Computação na UERJ. Sou apaixonada por tecnologia e estou sempre me atualizando sobre novas ferramentas e tecnologias. Estou iniciando agora minha carreira e tenho o objetivo de me tornar uma Desenvolvedora FullStack.
 
 
 <p align="left">
@@ -47,8 +47,8 @@ Me chamo Jessica Araújo, tenho 21 anos, sou bahiana mas moro atualmente no Rio 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
@@ -66,5 +66,6 @@ Me chamo Jessica Araújo, tenho 21 anos, sou bahiana mas moro atualmente no Rio 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jessiKAWNW&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Tecnologias que utilizo:
-
-
+- Git
+- SQL
+- Java
