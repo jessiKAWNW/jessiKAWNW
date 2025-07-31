@@ -63,8 +63,6 @@ Me chamo Jessica Araújo, tenho 21 anos, sou bahiana mas moro atualmente no Rio 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessiKAWNW&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jessiKAWNW&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Tecnologias que utilizo:
 - Git
 - SQL
